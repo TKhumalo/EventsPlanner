@@ -1,0 +1,7 @@
+{
+  "name": "EventsPlanner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
